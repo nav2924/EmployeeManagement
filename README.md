@@ -45,7 +45,7 @@ Before you begin setting up and running the Employee Management System, make sur
 1. Clone the repository to your local machine.
 2. Import the project into your preferred Java IDE.
 3. Configure the database connection in the `Conn.java` file.
-4. Run the `Login.java` file to start the Employee Management System.
+4. Run the `Splash.java` file to start the Employee Management System.
 
 Now you are ready to use and contribute to the project!
 
