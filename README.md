@@ -32,6 +32,7 @@ Before you begin setting up and running the Employee Management System, make sur
 3. **Database Setup:**
    - Create a MySQL database for the Employee Management System.
    - Configure the database connection details in the project code, particularly in the `Conn.java` file.
+   - I have the sql queries as Database.txt run it
 
 4. **Integrated Development Environment (IDE):**
    - A Java IDE is recommended for a smooth development experience. You can use popular IDEs like IntelliJ IDEA, Eclipse, or NetBeans.
